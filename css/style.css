@@ -63,7 +63,10 @@ img {
   width: 826px;
   height: 620px;
   padding: 63px 90px 0;
-  background: #fff; }
+  /* background: #fff; */
+  background: #010923;
+  /* opacity: 0.85; */
+  }
 
 .wizard {
   position: relative; }
